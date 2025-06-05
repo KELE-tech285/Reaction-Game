@@ -14,7 +14,7 @@ Game ends after 5 rounds
 
 🧰 Hardware Required
 |Component	     | Quantity                        |
-|--------------------------------------------------|
+|----------------|---------------------------------|
 |Arduino Uno	   |1                                |
 |16x2 I2C LCD	   |1                                |
 |Push Buttons    |2                                |
@@ -27,20 +27,20 @@ Game ends after 5 rounds
 ⚡ Wiring
 Buttons
 |Pin	    |    Arduino |
-|----------------------|
+|---------|------------|
 |Button 1 |D2          |
 |Button 2 |D4          |
 
 LEDs
 |LED   | 	Arduino |
-|-----------------|
+|------|----------|
 |LED 1 |D7        |
 |LED 2 |D8        |
 |LED 3 |D9        |
 
 LCD (I2C)
 |LCD Pin  |	Arduino |
-|-------------------|
+|---------|---------|
 |SDA      |A4       |
 |SCL      |A5       |
 
