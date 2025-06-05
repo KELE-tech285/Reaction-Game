@@ -94,4 +94,12 @@ LiquidCrystal_I2C
 
 Install via Library Manager in the Arduino IDE:
 
-Sketch > Include Library > Manage Libraries > Search for "LiquidCrystal_I2C"
+Sketch > Include Library > Manage Libraries > Search for "LiquidCrystal_I2C" 
+
+
+![IMG_20250605_190236](https://github.com/user-attachments/assets/1dade741-9081-4dea-9fe0-2ce73b3bf9c3)
+![IMG_20250605_190243](https://github.com/user-attachments/assets/9dede18c-ca95-49e9-9c0d-50a0bcf292af)
+![IMG_20250605_190253](https://github.com/user-attachments/assets/f95dc1fd-22a1-4923-9175-6dd5529b60e3)
+![IMG_20250605_190304](https://github.com/user-attachments/assets/35c98a30-b914-42eb-9bfa-eb5f180aff67)
+![IMG_20250303_182646](https://github.com/user-attachments/assets/f5ee3deb-7606-4774-9333-5a3eb4b14746)
+![IMG_20250605_190233](https://github.com/user-attachments/assets/8544c0d6-1a03-4b83-be9e-b56efb7e3659)
