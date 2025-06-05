@@ -13,32 +13,32 @@ LCD displays round info, scores, and winner
 Game ends after 5 rounds
 
 🧰 Hardware Required
-Component	Quantity
-Arduino Uno	1
-16x2 I2C LCD	1
-Push Buttons	2
-10kΩ Resistors	2 (optional, if not using INPUT)
-LEDs	3
+Component	    Quantity
+Arduino Uno	      1
+16x2 I2C LCD	    1
+Push Buttons    	2
+10kΩ Resistors	  2 (optional, if not using INPUT)
+LEDs	            3
 Resistors (220Ω)	3 (for LEDs)
-Jumper Wires	Several
-Breadboard	1
+Jumper Wires	   Several
+Breadboard	      1
 
 ⚡ Wiring
 Buttons
-Pin	Arduino
-Button 1	D2
-Button 2	D4
+Pin	        Arduino
+Button 1    	D2
+Button 2    	D4
 
 LEDs
-LED	Arduino
-LED 1	D7
-LED 2	D8
-LED 3	D9
+LED    	Arduino
+LED 1   	D7
+LED 2   	D8
+LED 3   	D9
 
 LCD (I2C)
-LCD Pin	Arduino
-SDA	A4
-SCL	A5
+LCD Pin  	Arduino
+SDA       	A4
+SCL       	A5
 
 Ensure your I2C LCD address is 0x27. Use an I2C scanner sketch if unsure.
 
